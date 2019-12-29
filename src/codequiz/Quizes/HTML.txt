@@ -1,0 +1,40 @@
+Q.The <title> element must be located inside what HTML element?
+A.<head>
+Q.What does HTML stands for?
+A.Hypertext Markup Language
+Q.How is document type initialized in HTML5?
+A.<!DOCTYPE HTML>
+Q.What HTML Elements is used for making any text bold ?
+A.<b>
+Q.What HTML element is used for creating an unordered list?
+A.<ul>
+Q.What character indicate closing of a tag?
+A./
+Q.What is the font-size of the h1 heading tag?
+A.2 em
+Q.How many heading tags are there in HTML5?
+A.6
+Q.How many attributes are there in HTML5?
+A.2
+Q.Which of the following attributes is used to add link to any element?
+A.href
+Q.What is the purpose of using div tags in HTML?
+A.For creating different sections
+Q.Which of the following tags is used to make a portion of text italic in HTML?
+A.<i>
+Q.What is the HTML element for inserting a line break?
+A.<br>
+Q.What is the HTML element to define important text?
+A.<strong>
+Q.What is the HTML element to define emphasized text?
+A.<em>
+Q.What is the HTML element make a numbered list?
+A.<ol>
+Q.What is the HTML for making a text area?
+A.<textarea>
+Q.Which HTML element defines the title of a document?
+A.<title>
+Q.What HTML attribute specifies an alternate text for an image?
+A.alt
+Q.What is the correct HTML element for playing video files?
+A.<video>
